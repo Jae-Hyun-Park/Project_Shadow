@@ -1,0 +1,695 @@
+﻿Log file open, 06/10/18 15:11:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: mygame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1241276412) SRandInit(-1241276411).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.944540
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.705s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am JH (192.168.1.226:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.10-06.11.15:559][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-06.11.15:559][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.10-06.11.15:621][  0]LogInit: Computer: JH
+[2018.06.10-06.11.15:621][  0]LogInit: User: jonghoon
+[2018.06.10-06.11.15:621][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.06.10-06.11.15:621][  0]LogInit: High frequency timer resolution =2.338336 MHz
+[2018.06.10-06.11.15:622][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.10-06.11.15:622][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.10-06.11.15:622][  0]LogMemory: Process Physical Memory: 275.18 MB used, 275.18 MB peak
+[2018.06.10-06.11.15:622][  0]LogMemory: Process Virtual Memory: 265.93 MB used, 265.93 MB peak
+[2018.06.10-06.11.15:622][  0]LogMemory: Physical Memory: 2963.50 MB used,  5143.20 MB free, 8106.70 MB total
+[2018.06.10-06.11.15:623][  0]LogMemory: Virtual Memory: 4777.05 MB used,  5143.20 MB free, 134217728.00 MB total
+[2018.06.10-06.11.15:857][  0]LogInit: Using OS detected language (ko-KR).
+[2018.06.10-06.11.15:857][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.06.10-06.11.15:904][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.06.10-06.11.16:820][  0]LogStreaming: Display: Took  0.961s to EndInitTextLocalization.
+[2018.06.10-06.11.16:821][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.10-06.11.16:936][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.10-06.11.16:936][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.10-06.11.18:274][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.10-06.11.18:286][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.06.10-06.11.18:286][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.06.10-06.11.18:291][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.10-06.11.18:291][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.10-06.11.18:291][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.10-06.11.18:298][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.10-06.11.18:298][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.10-06.11.18:298][  0]LogWindows: EnumDisplayDevices:
+[2018.06.10-06.11.18:298][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.06.10-06.11.18:299][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.06.10-06.11.18:299][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.06.10-06.11.18:300][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.10-06.11.18:300][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2018.06.10-06.11.18:300][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.10-06.11.18:300][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.10-06.11.18:300][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.06.10-06.11.18:311][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.10-06.11.18:332][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.06.10-06.11.18:335][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Intermediate/Shaders/WorkingDirectory/3192/).
+[2018.06.10-06.11.18:336][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jonghoon/AppData/Local/Temp/UnrealShaderWorkingDir/2EB81C3B4CB4B5F8637257B3E383B4AB/'.
+[2018.06.10-06.11.18:856][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.10-06.11.18:877][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.10-06.11.18:897][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.10-06.11.18:921][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.10-06.11.18:946][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.10-06.11.18:970][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.10-06.11.18:989][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.10-06.11.19:009][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.10-06.11.19:020][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.10-06.11.19:037][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.10-06.11.19:056][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.10-06.11.19:073][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.10-06.11.19:091][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.10-06.11.19:109][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.10-06.11.19:127][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.10-06.11.19:211][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.10-06.11.19:211][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.10-06.11.19:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.10-06.11.19:270][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.10-06.11.19:332][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.10-06.11.19:354][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.10-06.11.19:375][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.10-06.11.19:397][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.10-06.11.19:419][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.10-06.11.19:445][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.10-06.11.19:445][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.10-06.11.19:776][  0]LogXGEController: Cleaning working directory: C:/Users/jonghoon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.10-06.11.19:776][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.10-06.11.19:777][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.10-06.11.19:777][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.10-06.11.22:251][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.10-06.11.22:861][  0]LogDerivedDataCache: Loaded boot cache 0.61s 74MB C:/Users/jonghoon/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-06.11.22:861][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jonghoon/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.10-06.11.22:861][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.10-06.11.22:861][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.10-06.11.22:861][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.10-06.11.22:861][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.10-06.11.22:909][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.10-06.11.22:925][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jonghoon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.10-06.11.22:925][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.10-06.11.22:925][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.10-06.11.22:944][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.10-06.11.22:948][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.10-06.11.22:955][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-06.11.22:955][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-06.11.23:977][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2018.06.10-06.11.24:640][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-06.11.25:378][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.10-06.11.25:398][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.10-06.11.25:398][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.10-06.11.25:398][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.10-06.11.25:398][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.10-06.11.25:398][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.10-06.11.25:614][  0]LogNetVersion: mygame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3023802737)
+[2018.06.10-06.11.27:741][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.146819 seconds
+[2018.06.10-06.11.27:749][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.10-06.11.27:749][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.10-06.11.27:749][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.10-06.11.37:293][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.10-06.11.37:367][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.10-06.11.39:346][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-06.11.39:347][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-06.11.39:502][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-06.11.39:651][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-06.11.41:233][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.10-06.11.41:667][  0]LogOcInput: OculusInput pre-init called
+[2018.06.10-06.11.42:250][  0]LogEngine: Initializing Engine...
+[2018.06.10-06.11.42:261][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.10-06.11.42:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-06.11.42:269][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-06.11.43:212][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.10-06.11.43:235][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.10-06.11.43:600][  0]LogInit: FAudioDevice initialized.
+[2018.06.10-06.11.43:741][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/jonghoon/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-06.11.43:767][  0]LogInit: Texture streaming: Enabled
+[2018.06.10-06.11.43:811][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.10-06.11.43:901][  0]LogInit: Transaction tracking system initialized
+[2018.06.10-06.11.44:079][  0]BlueprintLog: New page: 에디터 로드
+[2018.06.10-06.11.44:315][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.06.10-06.11.44:577][  0]LogConsoleResponse: Display: 
+[2018.06.10-06.11.44:952][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.10-06.11.44:953][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.10-06.11.44:953][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.10-06.11.44:953][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-06.11.44:953][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-06.11.45:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonghoon/Documents/Unreal Projects/mygame/Content/' took 0.02s
+[2018.06.10-06.11.46:359][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.10-06.11.46:362][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.10-06.11.46:374][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.10-06.11.46:395][  0]MapCheck: New page: 맵 체크
+[2018.06.10-06.11.46:395][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.10-06.11.46:762][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d0b3d7180, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-06.11.46:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d0b3d7180, Size=64
+[2018.06.10-06.11.46:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d0b3d7240, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-06.11.46:855][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d0b7d2930, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-06.11.47:151][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d0b7ea9e8, Size=56, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.06.10-06.11.47:169][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d0b7ea9e8, Size=56
+[2018.06.10-06.11.47:169][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d0b7ea9e8, Size=56, Default__SideScrollerCharacter_C Function /Engine/Transient.REINST_SideScrollerCharacter_C_4:ExecuteUbergraph_SideScrollerCharacter
+[2018.06.10-06.11.47:183][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d0b7dfd80, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.06.10-06.11.48:008][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [76.267914ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.10-06.11.48:441][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.06.10-06.11.48:498][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.10-06.11.48:535][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d0b3d7240, Size=64
+[2018.06.10-06.11.48:535][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d0b7ea9e8, Size=56
+[2018.06.10-06.11.48:538][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.10-06.11.48:748][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 209.317ms.
+[2018.06.10-06.11.48:748][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 2.387
+[2018.06.10-06.11.49:236][  0]LogCollectionManager: Loaded 0 collections in 0.008837 seconds
+[2018.06.10-06.11.49:377][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Collections/' took 0.01s
+[2018.06.10-06.11.49:377][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonghoon/Documents/Unreal Projects/mygame/Content/Developers/jonghoon/Collections/' took 0.01s
+[2018.06.10-06.11.49:378][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonghoon/Documents/Unreal Projects/mygame/Content/Collections/' took 0.01s
+[2018.06.10-06.11.49:378][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.10-06.11.49:418][  0]LogContentBrowser: Native class hierarchy populated in 0.0377 seconds. Added 2452 classes and 558 folders.
+[2018.06.10-06.11.49:458][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.06.10-06.11.50:195][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.06.10-06.11.50:223][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.06.10-06.11.50:340][  0]LogSlate: Took 0.010808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.10-06.11.50:389][  0]LogSlate: Took 0.043346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.06.10-06.11.50:418][  0]LogSlate: Took 0.026305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2018.06.10-06.11.50:422][  0]LogSlate: Took 0.004154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.10-06.11.50:445][  0]LogSlate: Took 0.007103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.10-06.11.50:924][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2018.06.10-06.11.52:205][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.06.10-06.11.52:205][  0]LogLoad: (Engine Initialization) Total time: 44.61 seconds
+[2018.06.10-06.11.52:205][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.10-06.11.52:579][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.10-06.11.52:626][  0]LogSlate: Took 0.005092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-06.11.53:780][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.11.54:072][  3]LogAssetRegistry: Asset discovery search completed in 30.1167 seconds
+[2018.06.10-06.11.54:074][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.10-06.11.54:074][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2018.06.10-06.12.06:095][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.12.08:800][212]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.06.10-06.12.08:852][212]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.12.08:853][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-06.12.08:855][212]PIE: New page: PIE 세션: SideScrollerExampleMap (2018. 6. 11. 오전 12:12:08)
+[2018.06.10-06.12.08:856][212]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.06.10-06.12.08:935][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079189s)
+[2018.06.10-06.12.08:937][212]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.06.10-06.12.08:938][212]LogPlayLevel: PIE: World Init took: (0.002650s)
+[2018.06.10-06.12.08:938][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.082522s)
+[2018.06.10-06.12.08:990][212]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.10-06.12.09:038][212]LogInit: FAudioDevice initialized.
+[2018.06.10-06.12.09:125][212]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.06.10-06.12.09:137][212]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.06.10-15.12.09
+[2018.06.10-06.12.09:138][212]LogWorld: Bringing up level for play took: 0.007395
+[2018.06.10-06.12.09:162][212]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2018.06.10-06.12.09:165][212]PIE: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.186
+[2018.06.10-06.12.09:165][212]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.12.12:901][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.12.13:002][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.12.15:337][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.17.12:805][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.17.14:533][551]LogSlate: Took 0.002010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-06.17.15:004][551]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.06.10-06.17.15:425][551]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d470e2628, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.10-06.17.15:426][551]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d470e25f0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.10-06.17.16:027][551]LogSlate: Took 0.004339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.10-06.17.16:167][552]LogSlate: Took 0.004625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.10-06.17.17:585][581]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2018.06.10-06.17.25:370][ 43]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.06.10-06.17.25:370][ 43]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.06.10-06.17.25:371][ 43]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.06.10-06.17.28:270][220]BlueprintLog: New page: SideScrollerCharacter 컴파일
+[2018.06.10-06.17.28:284][220]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d0b7dfd80, Size=160
+[2018.06.10-06.17.28:285][220]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d6052d4e0, Size=160, Default__SideScrollerCharacter_C Function /Engine/Transient.REINST_SideScrollerCharacter_C_24:ExecuteUbergraph_SideScrollerCharacter
+[2018.06.10-06.17.28:289][220]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d0cfc20c0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.06.10-06.17.28:293][220]LogUObjectGlobals: Warning: Guid referenced by CapsuleComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder is already used by CapsuleComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.06.10-06.17.28:294][220]LogUObjectGlobals: Warning: Guid referenced by ArrowComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.Arrow is already used by ArrowComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.06.10-06.17.28:294][220]LogUObjectGlobals: Warning: Guid referenced by CharacterMovementComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CharMoveComp is already used by CharacterMovementComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.06.10-06.17.28:294][220]LogUObjectGlobals: Warning: Guid referenced by SkeletalMeshComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CharacterMesh0 is already used by SkeletalMeshComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2018.06.10-06.17.28:954][221]LogSavePackage: Save=31.22ms
+[2018.06.10-06.17.28:954][221]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/SideScrollerCharacter49D49D404EEA9B7C9A6C8CB225275B9A.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.06.10-06.17.28:960][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.06.10-06.17.30:810][278]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.06.10-06.17.30:854][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.17.30:854][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-06.17.30:854][278]PIE: New page: PIE 세션: SideScrollerExampleMap (2018. 6. 11. 오전 12:17:30)
+[2018.06.10-06.17.30:855][278]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.06.10-06.17.30:891][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036272s)
+[2018.06.10-06.17.30:892][278]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.06.10-06.17.30:893][278]LogPlayLevel: PIE: World Init took: (0.001924s)
+[2018.06.10-06.17.30:893][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.038649s)
+[2018.06.10-06.17.30:944][278]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.10-06.17.30:974][278]LogInit: FAudioDevice initialized.
+[2018.06.10-06.17.31:006][278]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.06.10-06.17.31:009][278]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.06.10-15.17.31
+[2018.06.10-06.17.31:010][278]LogWorld: Bringing up level for play took: 0.003041
+[2018.06.10-06.17.31:011][278]PIE: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.338
+[2018.06.10-06.17.31:012][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.17.35:183][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.17.35:268][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.17.36:238][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.17.38:528][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.06.10-06.17.38:528][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.06.10-06.17.38:528][521]LogClass: Warning: In asset 'None', there is an enum property of type 'ECameraProjectionMode' with an invalid value of ''
+[2018.06.10-06.17.39:821][595]BlueprintLog: New page: SideScrollerCharacter 컴파일
+[2018.06.10-06.17.39:838][595]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d0cfc20c0, Size=160
+[2018.06.10-06.17.39:838][595]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5f4b9f80, Size=160, SideScrollerCharacter_C_51 Function /Engine/Transient.REINST_SideScrollerCharacter_C_28:ExecuteUbergraph_SideScrollerCharacter
+[2018.06.10-06.17.39:843][595]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5e4689a0, Size=160, Default__SideScrollerCharacter_C Function /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter
+[2018.06.10-06.17.40:521][597]LogSavePackage: Save=30.89ms
+[2018.06.10-06.17.40:521][597]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/SideScrollerCharacterE90232DC443CA5A43D874E9D3A15114F.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2018.06.10-06.17.40:526][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2018.06.10-06.19.24:689][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.19.32:250][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.19.32:349][183]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.06.10-06.19.32:378][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.19.32:378][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-06.19.32:379][183]PIE: New page: PIE 세션: SideScrollerExampleMap (2018. 6. 11. 오전 12:19:32)
+[2018.06.10-06.19.32:379][183]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.06.10-06.19.32:408][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028890s)
+[2018.06.10-06.19.32:409][183]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.06.10-06.19.32:409][183]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2018.06.10-06.19.32:409][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.030437s)
+[2018.06.10-06.19.32:456][183]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.10-06.19.32:482][183]LogInit: FAudioDevice initialized.
+[2018.06.10-06.19.32:517][183]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.06.10-06.19.32:520][183]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.06.10-15.19.32
+[2018.06.10-06.19.32:521][183]LogWorld: Bringing up level for play took: 0.002822
+[2018.06.10-06.19.32:522][183]PIE: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.828
+[2018.06.10-06.19.32:522][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.19.43:011][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.19.43:101][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.10-06.19.43:990][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.22.12:778][973]LogSavePackage: Save=153.33ms
+[2018.06.10-06.22.12:779][973]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/SideScrollerExampleMap_Auto184C8344940EBA72B4CCC41B4005C8871.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2018.06.10-06.22.12:781][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap
+[2018.06.10-06.22.12:785][973]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.257
+[2018.06.10-06.22.12:786][973]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2018.06.10-06.25.26:793][562]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2018.06.10-06.25.38:844][807]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2018.06.10-06.25.47:303][952]LogSlate: Window '부모 클래스 선택' being destroyed
+[2018.06.10-06.25.57:771][154]LogRenderer: Reallocating scene render targets to support 964x728 Format 10 NumSamples 1 (Frame:1).
+[2018.06.10-06.25.59:336][185]BlueprintLog: New page: BP_Enermy 컴파일
+[2018.06.10-06.27.26:927][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.27.44:110][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.27.57:740][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.28.08:396][401]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.06.10-06.28.08:396][401]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.06.10-06.28.10:455][416]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-06.28.12:811][445]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.06.10-06.28.12:811][445]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.06.10-06.28.19:661][509]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.06.10-06.28.19:661][509]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.06.10-06.28.28:452][661]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-06.28.28:506][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5cda4608, Size=40, Default__TutorialTPP_AnimBlueprint_C Function /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.TutorialTPP_AnimBlueprint_C:ExecuteUbergraph_TutorialTPP_AnimBlueprint
+[2018.06.10-06.28.28:556][661]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d5cda4608, Size=40
+[2018.06.10-06.28.28:556][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5cda4608, Size=40, Default__TutorialTPP_AnimBlueprint_C Function /Engine/Transient.REINST_TutorialTPP_AnimBlueprint_C_1:ExecuteUbergraph_TutorialTPP_AnimBlueprint
+[2018.06.10-06.28.28:562][661]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5cda5ee0, Size=40, Default__TutorialTPP_AnimBlueprint_C Function /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.TutorialTPP_AnimBlueprint_C:ExecuteUbergraph_TutorialTPP_AnimBlueprint
+[2018.06.10-06.28.28:586][661]LogSkeletalMesh: Skeletal Mesh found in DDC [4.067850ms] /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.TutorialTPP
+[2018.06.10-06.28.29:930][672]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-06.28.32:231][713]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-06.28.32:252][713]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5c675a20, Size=8, Default__TutorialAnimationBlueprint_C Function /Engine/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.TutorialAnimationBlueprint_C:ExecuteUbergraph_TutorialAnimationBlueprint
+[2018.06.10-06.28.32:258][713]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d5c675a20, Size=8
+[2018.06.10-06.28.32:258][713]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5c675a20, Size=8, Default__TutorialAnimationBlueprint_C Function /Engine/Transient.REINST_TutorialAnimationBlueprint_C_2:ExecuteUbergraph_TutorialAnimationBlueprint
+[2018.06.10-06.28.32:260][713]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029d5c6779e8, Size=8, Default__TutorialAnimationBlueprint_C Function /Engine/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.TutorialAnimationBlueprint_C:ExecuteUbergraph_TutorialAnimationBlueprint
+[2018.06.10-06.28.33:527][723]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-06.28.45:781][ 48]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_16
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.45:805][ 49]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.45:833][ 50]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.45:902][ 51]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:033][ 52]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:164][ 53]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:298][ 54]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:429][ 55]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:746][ 56]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:762][ 57]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:780][ 58]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:816][ 59]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:869][ 60]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:920][ 61]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.46:972][ 62]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.47:025][ 63]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.47:078][ 64]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.47:136][ 65]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_18
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.47:540][ 73]BlueprintLog: New page: BP_Enermy 컴파일
+[2018.06.10-06.28.47:898][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d5c675a20, Size=8
+[2018.06.10-06.28.47:898][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029d5cda4608, Size=40
+[2018.06.10-06.28.48:022][ 74]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:054][ 75]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:076][ 76]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:107][ 77]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:188][ 78]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:240][ 79]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:292][ 80]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:501][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enermy" FILE="../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_Enermy.uasset" SILENT=true
+[2018.06.10-06.28.48:528][ 81]LogSavePackage: Save=23.97ms
+[2018.06.10-06.28.48:528][ 81]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/BP_EnermyA99D593D4F2344517F5497B06BAEB076.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_Enermy.uasset'
+[2018.06.10-06.28.48:533][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_Enermy.uasset
+[2018.06.10-06.28.48:539][ 81]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:549][ 82]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:565][ 83]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:606][ 84]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:662][ 85]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:710][ 86]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:762][ 87]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:815][ 88]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:919][ 89]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.28.48:940][ 90]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ThirdPerson_AnimBP_C /Engine/Transient.World_4:PersistentLevel.BP_Enermy_C_0.SkeletalMesh.ThirdPerson_AnimBP_C_26
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:01CA
+[2018.06.10-06.32.17:275][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.029
+[2018.06.10-06.32.17:278][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Behaviour] ([1] browsable assets)...
+[2018.06.10-06.32.17:278][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Behaviour]
+[2018.06.10-06.32.17:278][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Behaviour" FILE="../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/BP_Behaviour_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.06.10-06.32.17:284][429]LogSavePackage: Save=2.89ms
+[2018.06.10-06.32.17:284][429]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/BP_Behaviour_Auto2DFA3E21945707BEB4C2BBB8A9ACCB99F.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/BP_Behaviour_Auto2.uasset'
+[2018.06.10-06.32.17:286][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/BP_Behaviour_Auto2.uasset
+[2018.06.10-06.32.17:287][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/NewBlackboardData] ([1] browsable assets)...
+[2018.06.10-06.32.17:287][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/NewBlackboardData]
+[2018.06.10-06.32.17:292][429]LogSavePackage: Save=2.37ms
+[2018.06.10-06.32.17:292][429]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/NewBlackboardData_Auto209890E3945EB0F8FB7F3C089A3610C6A.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/NewBlackboardData_Auto2.uasset'
+[2018.06.10-06.32.17:295][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/NewBlackboardData_Auto2.uasset
+[2018.06.10-06.32.17:295][429]LogFileHelpers: Auto-saving content packages took 0.019
+[2018.06.10-06.32.30:253][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_BB" FILE="../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_BB.uasset" SILENT=true
+[2018.06.10-06.32.30:258][659]LogSavePackage: Save=2.49ms
+[2018.06.10-06.32.30:258][659]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/BP_BBEFF851CC4E69A92F1A81D39A092B0364.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_BB.uasset'
+[2018.06.10-06.32.30:263][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_BB.uasset
+[2018.06.10-06.41.32:794][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.41.38:186][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.41.48:372][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.41.58:646][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.42.36:142][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-06.42.37:555][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2018.06.10-06.42.38:468][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.42.44:303][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.43.21:293][145]LogSavePackage: Save=165.01ms
+[2018.06.10-06.43.21:293][145]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/SideScrollerExampleMap_Auto3554E3B394CC0A9E07A3F5FA3DA7D346C.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto3.umap'
+[2018.06.10-06.43.21:296][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto3.umap
+[2018.06.10-06.43.21:298][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.217
+[2018.06.10-06.43.21:298][145]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.217
+[2018.06.10-06.43.21:301][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Behaviour] ([1] browsable assets)...
+[2018.06.10-06.43.21:301][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Behaviour]
+[2018.06.10-06.43.21:301][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Behaviour" FILE="../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/BP_Behaviour_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.06.10-06.43.21:307][145]LogSavePackage: Save=3.16ms
+[2018.06.10-06.43.21:307][145]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/BP_Behaviour_Auto3490B7474484FDB4D7FCA2F92D871FC3E.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/BP_Behaviour_Auto3.uasset'
+[2018.06.10-06.43.21:311][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/Autosaves/Game/BP/BP_Behaviour_Auto3.uasset
+[2018.06.10-06.43.21:311][145]LogFileHelpers: Auto-saving content packages took 0.011
+[2018.06.10-06.44.19:680][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge1)
+[2018.06.10-06.44.21:128][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2018.06.10-06.44.34:699][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-06.44.37:324][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar2)
+[2018.06.10-06.44.38:498][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.44.39:790][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.44.40:548][621]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.06.10-06.44.43:437][668]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.06.10-06.44.43:517][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.10-06.45.16:070][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.45.18:216][249]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.06.10-06.45.19:556][270]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.06.10-06.45.20:578][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2018.06.10-06.45.22:578][316]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.06.10-06.45.29:137][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.46.11:804][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Behaviour" FILE="../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_Behaviour.uasset" SILENT=true
+[2018.06.10-06.46.11:815][183]LogSavePackage: Save=6.24ms
+[2018.06.10-06.46.11:815][183]LogSavePackage: Moving '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Saved/BP_Behaviour48846FB54955134B36D5498C36C27685.tmp' to '../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_Behaviour.uasset'
+[2018.06.10-06.46.11:821][183]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/jonghoon/Documents/Unreal Projects/mygame/Content/BP/BP_Behaviour.uasset
+[2018.06.10-06.46.26:047][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge9)
+[2018.06.10-06.46.27:054][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.46.29:000][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-06.46.31:768][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.10-06.46.33:687][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2018.06.10-06.46.52:557][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
